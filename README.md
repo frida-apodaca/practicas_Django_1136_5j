@@ -16,3 +16,4 @@ aqui se realizaran  las practicas de Django que es un framework Marco de trabajo
 - 14 vuelve a ejecutar servidor
 
  
+- ![image](https://github.com/user-attachments/assets/4b93580d-dcc0-4e7c-ae0f-28f7d289fbe7)
